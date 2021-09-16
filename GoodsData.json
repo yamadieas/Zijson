@@ -1,0 +1,50 @@
+{
+  "trunks" : [
+      {
+          "image": "",
+          "carName": "",
+          "carNum": "BD53RRP",
+          "load": 8,
+          "zujin": "2500/d"
+      },
+      {
+          "image": "",
+          "carName": "",
+          "carNum": "BD53SKK",
+          "load": 5,
+          "zujin": "1800/d"
+      },{
+          "image": "",
+          "carName": "",
+          "carNum": "BD53IKJ",
+          "load": 10,
+          "zujin": "3000/d"
+      },{
+          "image": "",
+          "carName": "",
+          "carNum": "BD51JSS",
+          "load": 3.0,
+          "zujin": "1000/d"
+      },{
+          "image": "",
+          "carName": "",
+          "carNum": "BD51JLS",
+          "load": 1.5,
+          "zujin": "500/d"
+      },{
+          "image": "",
+          "carName": "",
+          "carNum": "BD53UOP",
+          "load": 1.5,
+          "zujin": "500/d"
+      },{
+          "image": "",
+          "carName": "",
+          "carNum": "BD53EED",
+          "load": 1.0,
+          "zujin": "200/d",
+      }
+  ],
+  "goods" : [
+  ]
+}
