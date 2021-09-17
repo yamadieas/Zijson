@@ -4,7 +4,7 @@
           "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/large1.png",
           "carName": "Large-S001",
           "carNum": "BD53RRP",
-          "load": 8,
+          "load": 8.0,
           "zujin": "2500/d"
       },
       {
@@ -41,7 +41,7 @@
           "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/large3.png",
           "carName": "Large-S003",
           "carNum": "BD53SLK",
-          "load": 10,
+          "load": 10.0,
           "zujin": "3000/d"
       },{
           "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/sma1.png",
