@@ -63,6 +63,36 @@
           "zujin": "200/d",
       }
   ],
+  "vans" : [
+      {
+          "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/vans001.png",
+          "carName": "Van-S001",
+          "carNum": "BD53GHP",
+          "load": 1.0,
+          "zujin": "500/d"
+      },
+      {
+          "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/vans002.png",
+          "carName": "Van-S001",
+          "carNum": "BD53RLP",$
+          "load": 1.0,
+          "zujin": "500/d"
+      },
+      {
+          "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/vans003.png",
+          "carName": "Van-S001",
+          "carNum": "BD53RED",
+          "load": 1.0,
+          "zujin": "500/d"
+      },
+      {
+          "image": "https://raw.githubusercontent.com/yamadieas/Zijson/main/vans004.png",
+          "carName": "Large-S001",
+          "carNum": "BD53HFK",
+          "load": 1.0,
+          "zujin": "500/d"
+      }
+  ],
   "goods" : [
   ]
 }
